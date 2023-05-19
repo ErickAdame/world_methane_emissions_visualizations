@@ -24,7 +24,7 @@ Then, we created a SQL database for our information.
 Once we had the database in place, we built an API that pulls the information from that database. 
 
 At that point we were able to put it all together using HTML and Javascript to allow our information to be viewed dynamically. Our Dashboard contained large icons that can be clicked to lead you to our visualizations.
-<img src="images/dashboard.png">
+<img src="static/dashboard.png">
 
 ![image](https://user-images.githubusercontent.com/118831989/233504495-4c39df71-e158-4182-9cd5-43da0e0e6ea1.png)
 
